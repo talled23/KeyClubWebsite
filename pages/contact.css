@@ -1,0 +1,40 @@
+.wow{
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-image: url(https://i.pinimg.com/originals/65/b6/7d/65b67d4691c8a6c0a37e964a41278f1d.gif);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.top{
+  font-size: 5vw;
+  margin-top: 5rem;
+}
+.iroh{
+  color:yellow;
+  box-shadow: 0 0 0 5px #fff;
+  background-color: blue;
+  padding: 10px;
+  box-decoration-break: clone;
+  line-height: 2.2;
+  border-radius: 10px;
+}
+.bot {
+  font-size: 4vw;
+}
+.buttonn{
+  bottom: 10px;
+  color: yellow;
+  position: relative;
+  box-shadow: 0 0 0 5px #fff;
+  background-color: blue;
+  padding: 3vw;
+  border: none;
+  border-radius: 10px;
+  font-size: 6vw;
+  margin-top: 5vw;
+}
